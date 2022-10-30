@@ -88,7 +88,7 @@
                         <tKey>mute_vpesensitivity_power_label</tKey>
                         <defaultValue>0.75</defaultValue>
                         <min>0.01</min>
-                        <max>100</max>
+                        <max>10000</max>
                     </li>
                     <li Class="XmlExtensions.Setting.Numeric">
                         <key>rangeFactor</key>
@@ -96,7 +96,7 @@
                         <tKey>mute_vpesensitivity_range_label</tKey>
                         <defaultValue>0.75</defaultValue>
                         <min>0.01</min>
-                        <max>100</max>
+                        <max>10000</max>
                     </li>
                     <li Class="XmlExtensions.Setting.Numeric">
                         <key>radiusFactor</key>
@@ -104,7 +104,7 @@
                         <tKey>mute_vpesensitivity_radius_label</tKey>
                         <defaultValue>0.75</defaultValue>
                         <min>0.01</min>
-                        <max>100</max>
+                        <max>10000</max>
                     </li>
                     <li Class="XmlExtensions.Setting.Numeric">
                         <key>castTimeFactor</key>
@@ -112,7 +112,7 @@
                         <tKey>mute_vpesensitivity_casttime_label</tKey>
                         <defaultValue>0.75</defaultValue>
                         <min>0.01</min>
-                        <max>100</max>
+                        <max>10000</max>
                     </li>
                     <li Class="XmlExtensions.Setting.Numeric">
                         <key>cooldownFactor</key>
@@ -120,7 +120,7 @@
                         <tKey>mute_vpesensitivity_cooldown_label</tKey>
                         <defaultValue>0.75</defaultValue>
                         <min>0.01</min>
-                        <max>100</max>
+                        <max>10000</max>
                     </li>
                     <li Class="XmlExtensions.Setting.Numeric">
                         <key>durationFactor</key>
@@ -128,7 +128,7 @@
                         <tKey>mute_vpesensitivity_duration_label</tKey>
                         <defaultValue>0.75</defaultValue>
                         <min>0.01</min>
-                        <max>100</max>
+                        <max>10000</max>
                     </li>
                     <li Class="XmlExtensions.Setting.Numeric">
                         <key>entropyGainFactor</key>
@@ -136,7 +136,7 @@
                         <tKey>mute_vpesensitivity_entropygain_label</tKey>
                         <defaultValue>2</defaultValue>
                         <min>0.01</min>
-                        <max>100</max>
+                        <max>10000</max>
                     </li>
                 </rightCol>
             </li>
