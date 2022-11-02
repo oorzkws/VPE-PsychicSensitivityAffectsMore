@@ -80,6 +80,13 @@
                         <defaultValue>false</defaultValue>
                         <tooltip>The configured amount is added instead of multiplied, this allows more gradual scaling.\n\ne.g. 300% Psychic Sensitivity, psycast with range of 30, factor setting of 0.75\n\nOff: 30 * 3 * 0.75 = 67.5\nOn: 30 + (3 * 0.75) = 32.25</tooltip>
                     </li>
+                    <li Class="XmlExtensions.Setting.Checkbox">
+                        <key>affectPruning</key>
+                        <tKey>mute_vpesensitivity_affectpruning_checkbox</tKey>
+                        <label>Affect Pruning Speed</label>
+                        <defaultValue>false</defaultValue>
+                        <tooltip>Pruning speed is multiplied by Psychic Sensitivity</tooltip>
+                    </li>
                 </leftCol>
                 <rightCol>
                     <li Class="XmlExtensions.Setting.Numeric">
