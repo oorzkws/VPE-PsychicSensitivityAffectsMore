@@ -64,7 +64,7 @@
                         <tKey>mute_vpesensitivity_entropygain_checkbox</tKey>
                         <label>Affect Heat Gain</label>
                         <defaultValue>true</defaultValue>
-                        <tooltip>Increases neural heat gain based on Psychic Sensitivity</tooltip>
+                        <tooltip>Increases neural heat gain based on Psychic Sensitivity\nAdditive scaling does not apply to heat gain factor</tooltip>
                     </li>
                     <li Class="XmlExtensions.Setting.Checkbox">
                         <key>overrideDefaultValues</key>
